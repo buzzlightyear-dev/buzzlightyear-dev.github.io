@@ -1,2 +1,2 @@
-# buzzlightyear-dev.github.io
+buzzlightyear-dev.github.io
 Repo that contains page content
