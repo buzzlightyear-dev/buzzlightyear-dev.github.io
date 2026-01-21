@@ -2,6 +2,9 @@
 theme: minima
 minima:
   skin: dark
+  nav_pages:
+  - README.md
+  - test_page.md
 
   social_links:
   - title: Jekyll repository at GitHub
