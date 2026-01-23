@@ -14,8 +14,8 @@ minima:
      - title: Jekyll at X (formerly Twitter)
        icon: x-twitter
        url: "https://x.com/"
-  nav_pages:
-     - mqtt-antena.md
+  #nav_pages:
+  #   - mqtt-antena.md
   hide_site_feed_link: true
 
 plugins:
