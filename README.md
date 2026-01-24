@@ -1,5 +1,5 @@
 
 Repo that contains page content
 Some Projects:
-Home assistant...
-MQTT Antena
+- Home assistant...
+- MQTT Antena
