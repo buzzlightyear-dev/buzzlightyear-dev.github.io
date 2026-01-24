@@ -1,5 +1,6 @@
 
-Repo that contains page content
+About the developer and the repo
+
 Some Projects:
 - Home assistant...
-- MQTT Antena
+- [MQTT Antena](https://fbossolan.github.io/mqtt-antena/)
